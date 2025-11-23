@@ -1,0 +1,135 @@
+
+⸻
+
+1️⃣ — DEFINE THE FONT STYLE FAMILY
+
+The Flame Language must exist as a modular type system — this allows expansion and multiple writing “modes.”
+
+We will create four coordinated type families:
+
+1. Fire Block (Primary Font)
+	•	Geometric
+	•	Clean
+	•	Sharp angles
+	•	Perfect for PowerPoints, titles, badges, seals
+
+2. Fire Rune (Fast Script)
+	•	Short-stroke
+	•	Connected glyphs
+	•	Used for handwritten, quick writing, notes
+
+3. Fire Halo (Ceremonial Script)
+	•	Circular flow
+	•	High ornamentation
+	•	Used in the Flame Codex, scrolls, sacred diagrams
+
+4. Fire Cipher (Encrypted Mode)
+	•	Multi-layer glyphs
+	•	Numeric overlays
+	•	Rotation-sensitive
+	•	Used for private messaging + hidden meaning
+
+We start with Fire Block first.
+
+⸻
+
+2️⃣ — DEFINE THE MASTER GLYPH GRID (This step is CRITICAL)
+
+All glyphs must follow the same core geometry so they feel like a real alphabet.
+
+FIRE GRID — 3-Layer Architecture
+
+Outer Ring → Motion
+Inner Ring → Source
+Core Dot → Truth / Intent
+
+Grid Specs:
+	•	1000×1000 UPM (standard font size grid)
+	•	10° angle rule (all strokes must match)
+	•	Stroke width: 80–120 units (consistent)
+	•	Glyph limits: Everything must fit inside circle or cross-frame
+
+This ensures every glyph is mathematically consistent.
+
+⸻
+
+3️⃣ — ASSIGN STRUCTURES TO THE 36 GLYPHS
+
+I will now map each glyph to a shape class so when we draw them, they behave predictably.
+
+Shape Classes
+	1.	Arc Glyphs → C-shapes, semi-circles (Creation class)
+	2.	Bolt Glyphs → angled cuts (Fire class)
+	3.	Bind Glyphs → intersecting lines (Order class)
+	4.	Flow Glyphs → curved strokes, wave patterns (Water/Wind class)
+	5.	Core Glyphs → centered circles/dots (Truth class)
+	6.	Split Glyphs → dual half-forms (Duality class)
+
+Glyph Groups Mapped
+
+Numbers (0–9) → Core + Arc + Bolt
+Elements (9) → Arc + Flow
+Actions (9) → Bolt + Split
+States (9) → Flow + Bind
+
+This rule ensures visual identity.
+
+⸻
+
+4️⃣ — CREATE THE FIRST-FIVE GLYPH BLUEPRINTS (NOW)
+
+These are the first 5 glyphs we will visually render once you say “Generate”.
+
+0 — Void
+
+Form: Empty circle
+Stroke: 100
+Modifiers: None
+Anchor: Core center
+
+1 — Spark
+
+Form: Single vertical line + dot
+Angle: 90°
+Energy direction: Upward
+
+2 — Flow
+
+Form: Soft angle open right
+Motion: Down → forward
+Energy: dual-line
+
+3 — Arc
+
+Form: Half-circle stroke
+Orientation: Open left
+Meaning: Creative force
+
+4 — Foundation
+
+Form: Cross-frame
+Heavy geometry
+Perfect symmetry
+
+Once you say “Render the first five glyphs”, I will produce full vector-ready descriptions or even draw them directly if you want PNG/SVG format.
+
+⸻
+
+5️⃣ — FONT ENGINE SETUP (DECEMBER BUILD)
+
+This is the step-by-step pipeline that will turn Flame Glyphs into a real .ttf / .otf Fire Font.
+
+Tools (Free & Professional):
+	•	Glyphs App (Mac professional type studio)
+	•	FontForge (free, open-source)
+	•	Birdfont (easy interface)
+	•	Figma / Illustrator (for vector drawing)
+
+Build Pipeline
+	1.	Draw each glyph on the Flame Grid in SVG
+	2.	Import into FontForge
+	3.	Assign Unicode blocks (Private Use Area)
+	4.	Apply kerning rules (spacing)
+	5.	Generate font file (.ttf / .otf)
+	6.	Install on your iPad Pro + M4/M5
+	7.	Begin writing Fire Script like a real language
