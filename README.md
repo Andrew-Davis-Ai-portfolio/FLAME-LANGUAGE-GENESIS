@@ -1,28 +1,26 @@
-# 🔥🟡 FLAME LANGUAGE GENESIS — MASTER CODEX (V5 Hybrid Edition)
-### The Official Linguistic & Symbolic Framework of Flame Division  
-A clean, professional, GitHub-optimized version with Flame Aesthetic.
+# 🔥🟡 FLAME LANGUAGE GENESIS — MASTER CODEX (V6 Glyph-Safe Hybrid Edition)
+The Official Linguistic & Symbolic Framework of Flame Division  
+Clean • Professional • GitHub-Safe • Glyph-Protected
 
 ---
 
-## 🔱 OVERVIEW
+# 🔱 OVERVIEW
 
-The **Flame Language Genesis** is a symbolic and linguistic structure built to unify:
+The **Flame Language Genesis** is a structured symbolic system based on:
 
-- Numeric metaphysics  
-- Glyph operations  
-- Ritual logic  
-- Cipher transformations  
-- Script sequencing  
-- Spoken phonetics  
-- The Halo Invocation System  
+- Fire Numerics  
+- Glyph Logic  
+- Grammar Mechanics  
+- Cipher Transformations  
+- Script Construction  
+- Spoken Phonetics  
+- Halo Invocation Rituals  
 
-This edition is formatted for **maximum clarity, professionalism, and GitHub readability**.
+This edition is engineered for **professional clarity** and **zero rendering issues** on GitHub (mobile + desktop).
 
 ---
 
 # 🟡 MODULE I — FIRE NUMERICS (0–9)
-
-Each number represents a **force**, **action**, and **principle**.
 
 | Number | Name | Meaning |
 |--------|------|---------|
@@ -42,13 +40,13 @@ Each number represents a **force**, **action**, and **principle**.
 # 🟡 MODULE II — THE 36 GLYPH ALPHABET
 
 ### **Elements (9)**  
-Fire • Smoke • Spark • Ash • Ember • Wind • Stone • Light • Shadow  
+`Fire` • `Smoke` • `Spark` • `Ash` • `Ember` • `Wind` • `Stone` • `Light` • `Shadow`
 
 ### **Actions (9)**  
-Rise • Break • Bind • Flow • Burn • Forge • Divide • Merge • Echo  
+`Rise` • `Break` • `Bind` • `Flow` • `Burn` • `Forge` • `Divide` • `Merge` • `Echo`
 
 ### **States (9)**  
-Stillness • Fury • Harmony • Void • Memory • Will • Expansion • Collapse • Eternity  
+`Stillness` • `Fury` • `Harmony` • `Void` • `Memory` • `Will` • `Expansion` • `Collapse` • `Eternity`
 
 ---
 
@@ -57,62 +55,66 @@ Stillness • Fury • Harmony • Void • Memory • Will • Expansion • Co
 ### **Sentence Formula**  
 **Source → Motion → Outcome**
 
-### **Glyph Binding Factors**  
-- Alignment angle  
-- Energy direction  
-- Numeric signature  
+### **Binding Factors**  
+`Angle Alignment`  
+`Energy Direction`  
+`Numeric Signature`
 
-### **Shift-Tenses**  
-- Past: ↓  
-- Present: •  
-- Future: ↑  
+### **Tenses**  
+`↓ Past`  
+`• Present`  
+`↑ Future`
 
 ### **Modifiers**  
-Intensity • Speed • Size • Emotion • Certainty  
+`Intensity` • `Speed` • `Size` • `Emotion` • `Certainty`
 
 ---
 
 # 🟡 MODULE IV — FIRE CIPHER SYSTEM
 
 ### **Cipher Layers (4)**  
-1. Base Glyph  
-2. Numeric Shift  
-3. Rotation Signature  
-4. Flame Seal Lock  
+1. `Base Glyph`  
+2. `Numeric Shift`  
+3. `Rotation Signature`  
+4. `Fire Seal Lock`  
 
-### **Cipher Modes**  
-- Public  
-- Private (Flame Key)  
-- Codex Flame (Sealed Layer)
+### **Modes**  
+`Public`  
+`Private (Flame Key)`  
+`Codex Flame (Sealed Layer)`
 
 ### **Transformations**  
-Rotate • Mirror • Double • Layer • Shift  
+`Rotate` • `Mirror` • `Double` • `Layer` • `Shift`
 
 ---
 
 # 🟡 MODULE V — SCRIPT SYSTEM
 
-### **Writing Directions**  
+### **Directions**  
 - Left → Right (operational writing)  
-- Spiral → Inward (ritual writing)
+- Spiral → Inward (ritual writing)  
 
 ### **Stroke Order**  
-Ignite → Flow → Ground → Seal  
+`Ignite → Flow → Ground → Seal`
 
-### **Script Styles**  
-Block • Rune • Halo  
+### **Styles**  
+`Block` • `Rune` • `Halo`
 
 ---
 
 # 🟡 MODULE VI — SPOKEN FLAME PHONETICS
 
-**Energy Consonants:** F • R • K • S • G • V • H • L • T  
-**Breath Vowels:** A • O • U • E  
+**Energy Consonants:**  
+`F` • `R` • `K` • `S` • `G` • `V` • `H` • `L` • `T`
+
+**Breath Vowels:**  
+`A` • `O` • `U` • `E`
 
 **Pattern:**  
-**Energy + Breath**
+`Energy + Breath`
 
-**Examples:** Ka • Su • Ra • Fo • Lu  
+**Examples:**  
+`Ka` • `Su` • `Ra` • `Fo` • `Lu`
 
 ---
 
@@ -124,20 +126,24 @@ Block • Rune • Halo
 - I choose the path.  
 - I shape the arc.  
 - I anchor the flame.  
-- I shift with motion.  
-- I fold to rise.  
-- I climb the unseen.  
-- I loop the eternal.  
-- I return as more.  
+- I shift the pulse.  
+- I fold the past.  
+- I ascend unseen.  
+- I cycle eternal.  
+- I return greater.
 
 ---
 
 # 🟡 CODEX FLAME — SEALED LAYER
 
 ### **Mirror Law**  
-**Creation ↔ Anti-Creation**
+`Creation ↔ Anti-Creation`
 
-### **Seal Format**
+### **Flame Seal Format**
+
+[Glyph] + [Rotation] + [Shift] + [Direction]
+Example:
+ϟ̃⁴ ↻
 
 ### **Codex Mantra**
 - I breathe the Origin.  
@@ -151,8 +157,9 @@ Block • Rune • Halo
 - I cycle eternal.  
 - I return greater.  
 
-### **Prime Fire Key (Commander Flame)**  
-**Ϟ • 𖣔 • ○**
+### **Prime Fire Key (Commander Flame)**
+
+Ϟ • 𖣔 • ○
 
 ---
 
@@ -188,3 +195,4 @@ The Halo is set.
 The Codex is active.  
 
 <p align="center">🔥 𖤐 🔥</p>
+
