@@ -1,10 +1,10 @@
-document.addEventListener("DOMContentLoaded", () => {
+document.addEventListener("DOMContentLoaded", function () {
   // Halo text pulse
-  const chant = document.getElementById("halo-chant");
-  const pulseBtn = document.getElementById("pulse-btn");
+  var chant = document.getElementById("halo-chant");
+  var pulseBtn = document.getElementById("pulse-btn");
 
   if (chant && pulseBtn) {
-    pulseBtn.addEventListener("click", () => {
+    pulseBtn.addEventListener("click", function () {
       chant.classList.remove("pulse");
       // force reflow so animation restarts
       void chant.offsetWidth;
@@ -12,37 +12,14 @@ document.addEventListener("DOMContentLoaded", () => {
     });
   }
 
-  // Audio layer
-  const ambience = document.getElementById("audio-ambience");
-  const ping = document.getElementById("audio-ping");
-  const btnAmbience = document.getElementById("btn-ambience");
-  const btnPing = document.getElementById("btn-ping");
+  // Mobile nav
+  var navToggle = document.getElementById("navToggle");
+  var navDrawer = document.getElementById("navDrawer");
 
-  if (ambience && btnAmbience) {
-    btnAmbience.addEventListener("click", async () => {
-      try {
-        if (ambience.paused) {
-          await ambience.play();
-          btnAmbience.textContent = "Disable Ambient Field";
-        } else {
-          ambience.pause();
-          btnAmbience.textContent = "Enable Ambient Field";
-        }
-      } catch (err) {
-        console.warn("Audio play blocked by browser:", err);
-      }
-    });
-  }
-
-  if (ping && btnPing) {
-    btnPing.addEventListener("click", async () => {
-      try {
-        // rewind to start for rapid retrigger
-        ping.currentTime = 0;
-        await ping.play();
-      } catch (err) {
-        console.warn("Ping audio blocked by browser:", err);
-      }
+  if (navToggle && navDrawer) {
+    navToggle.addEventListener("click", function () {
+      var isOpen = navDrawer.style.display === "flex";
+      navDrawer.style.display = isOpen ? "none" : "flex";
     });
   }
 });
