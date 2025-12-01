@@ -1,1 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Visual Engine Viewport — Flame Language Genesis</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page" data-page="visual">
+    <header class="top-nav">
+      <div class="brand">
+        <span class="icon">🔥</span>
+        <span>FLAME DIVISION</span>
+      </div>
+      <nav class="nav-links">
+        <a href="index.html">Codex</a>
+        <a href="glyphs.html">Glyphs</a>
+        <a href="rituals.html">Rituals</a>
+        <a href="vector-core.html">Vector Core</a>
+        <a href="visual-engine.html" class="is-active">Visual Engine</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle">
+        <span>☰</span> Menu
+      </button>
+    </header>
 
+    <nav class="nav-drawer" id="navDrawer">
+      <a href="index.html">Codex</a>
+      <a href="glyphs.html">Glyphs</a>
+      <a href="rituals.html">Rituals</a>
+      <a href="vector-core.html">Vector Core</a>
+      <a href="visual-engine.html" class="is-active">Visual Engine</a>
+    </nav>
+
+    <section class="page-hero">
+      <h1>Visual Engine Viewport</h1>
+      <p>
+        How the Flame Language Genesis appears as an in-engine overlay — HUD panels, holographic rings, and Codex-driven UI.
+      </p>
+    </section>
+
+    <section class="visual">
+      <h2>Realtime Overlay Mock</h2>
+      <p class="visual-text">
+        This viewport block represents the kind of UI you could drop directly into Unreal or Unity — minimal, readable, and wired back
+        to the Codex.
+      </p>
+
+      <div class="viewport-3d">
+        <div class="viewport-inner">
+          <div class="viewport-caption">FLAME DIVISION // VIEWPORT</div>
+          <div class="viewport-lines">
+            <span>Scene Glyph Layer: ACTIVE</span>
+            <span>Halo Cycle: SYNCED</span>
+            <span>Ritual Feed: LISTENING</span>
+            <span>Codex Core: ONLINE</span>
+          </div>
+        </div>
+      </div>
+
+      <p class="visual-footer">
+        The same glyphs, numerics, and rituals on the home page can be rendered as floating rings, HUD labels, and on-screen prompts —
+        all backed by the same text and vector memory.
+      </p>
+    </section>
+
+    <section class="panel">
+      <h2>Engine Targets</h2>
+      <p>Designed to map cleanly into:</p>
+      <div class="badge-row">
+        <span class="badge-pill">Unreal Engine UMG / Slate</span>
+        <span class="badge-pill">Unity UI Toolkit</span>
+        <span class="badge-pill">Web-based HUD Overlays</span>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="sigil">🔥 𖤐 🔥</div>
+      <p>Visual layer defined. Next step: live in-engine implementation.</p>
+    </footer>
+  </div>
+
+  <script src="codex.js"></script>
+  <script src="voice.js"></script>
+</body>
+</html>
