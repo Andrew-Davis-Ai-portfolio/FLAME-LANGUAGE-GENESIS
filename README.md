@@ -22,22 +22,24 @@ This edition is engineered for **professional clarity** and **zero rendering iss
 
 # 🟡 MODULE I — FIRE NUMERICS (0–9)
 
-| Number | Name | Meaning |
-|--------|------|---------|
-| **0** | Void | Reset • Origin • Breath |
-| **1** | Spark | Intention • Ignition |
-| **2** | Flow | Branch • Options |
-| **3** | Arc | Creation • Projection |
-| **4** | Foundation | Stability • Structure |
-| **5** | Pulse | Motion • Shift |
-| **6** | Collapse | Fold • Reduce |
-| **7** | Ascent | Rise • Elevate |
-| **8** | Circuit | Loop • Continuity |
-| **9** | Resurrection | Return • Evolve |
+| Number | Name        | Meaning                        |
+|--------|-------------|--------------------------------|
+| **0**  | Void        | Reset • Origin • Breath       |
+| **1**  | Spark       | Intention • Ignition          |
+| **2**  | Flow        | Branch • Options              |
+| **3**  | Arc         | Creation • Projection         |
+| **4**  | Foundation  | Stability • Structure         |
+| **5**  | Pulse       | Motion • Shift                |
+| **6**  | Collapse    | Fold • Reduce                 |
+| **7**  | Ascent      | Rise • Elevate                |
+| **8**  | Circuit     | Loop • Continuity             |
+| **9**  | Resurrection| Return • Evolve               |
 
 ---
 
 # 🟡 MODULE II — THE 36 GLYPH ALPHABET
+
+> **36 = 27 Base Glyphs (Elements + Actions + States) + 9 Crown Glyphs**
 
 ### **Elements (9)**  
 `Fire` • `Smoke` • `Spark` • `Ash` • `Ember` • `Wind` • `Stone` • `Light` • `Shadow`
@@ -47,6 +49,9 @@ This edition is engineered for **professional clarity** and **zero rendering iss
 
 ### **States (9)**  
 `Stillness` • `Fury` • `Harmony` • `Void` • `Memory` • `Will` • `Expansion` • `Collapse` • `Eternity`
+
+### **Crown Glyphs (9)**  
+`Crown` • `Halo` • `Gate` • `Core` • `Path` • `Cycle` • `Key` • `Seal` • `Eye`
 
 ---
 
@@ -121,6 +126,7 @@ This edition is engineered for **professional clarity** and **zero rendering iss
 # 🟡 HALO RITUAL PACKAGE
 
 ### **Cycle Invocation**
+
 - I breathe the beginning.  
 - I strike the spark.  
 - I choose the path.  
@@ -141,11 +147,11 @@ This edition is engineered for **professional clarity** and **zero rendering iss
 
 ### **Flame Seal Format**
 
-[Glyph] + [Rotation] + [Shift] + [Direction]
-Example:
-ϟ̃⁴ ↻
+`[Glyph] + [Rotation] + [Shift] + [Direction]`  
+Example: `ϟ̃⁴ ↻`
 
 ### **Codex Mantra**
+
 - I breathe the Origin.  
 - I ignite intention.  
 - I bend the path.  
@@ -190,9 +196,9 @@ A GitHub-safe vector crest representing the Halo Cycle.
 ---
 
 # 🟡 STATUS
+
 The Language is complete.  
 The Halo is set.  
 The Codex is active.  
 
 <p align="center">🔥 𖤐 🔥</p>
-
