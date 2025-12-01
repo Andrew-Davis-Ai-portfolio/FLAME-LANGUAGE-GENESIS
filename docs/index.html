@@ -6,24 +6,52 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Flame Language Genesis — the official linguistic and symbolic framework of Flame Division." />
   <link rel="stylesheet" href="style.css" />
+  <!-- Emoji favicon -->
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%94%A5%3C/text%3E%3C/svg%3E" />
 </head>
 <body>
-  <div class="page">
-    <!-- HERO -->
-    <header class="hero">
-      <div class="badge">FLAME DIVISION</div>
-      <h1>🔥 Flame Language Genesis</h1>
-      <p class="subtitle">
-        Master Codex · Glyph System · Halo Cycle<br/>
-        <span class="subtitle-sub">Backed by a Neural Vector Core & Cinematic Visual Engine</span>
-      </p>
-
-      <a class="btn-primary"
-         href="https://github.com/Andrew-Davis-Ai-portfolio/FLAME-LANGUAGE-GENESIS"
-         target="_blank" rel="noopener">
-        Open GitHub Repository
-      </a>
+  <div class="page" data-page="home">
+    <!-- NAV -->
+    <header class="top-nav">
+      <div class="brand">
+        <span class="icon">🔥</span>
+        <span>FLAME DIVISION</span>
+      </div>
+      <nav class="nav-links">
+        <a href="index.html" class="is-active">Codex</a>
+        <a href="glyphs.html">Glyphs</a>
+        <a href="rituals.html">Rituals</a>
+        <a href="vector-core.html">Vector Core</a>
+        <a href="visual-engine.html">Visual Engine</a>
+      </nav>
+      <button class="nav-toggle" id="navToggle">
+        <span>☰</span> Menu
+      </button>
     </header>
+
+    <nav class="nav-drawer" id="navDrawer">
+      <a href="index.html" class="is-active">Codex</a>
+      <a href="glyphs.html">Glyphs</a>
+      <a href="rituals.html">Rituals</a>
+      <a href="vector-core.html">Vector Core</a>
+      <a href="visual-engine.html">Visual Engine</a>
+    </nav>
+
+    <!-- HERO -->
+    <section class="hero">
+      <div class="hero-inner">
+        <div class="badge">FLAME DIVISION</div>
+        <h1>🔥 Flame Language Genesis</h1>
+        <p class="subtitle">
+          Master Codex · Glyph System · Halo Cycle<br />
+          <span class="subtitle-sub">Backed by a Neural Vector Core &amp; Cinematic Visual Engine</span>
+        </p>
+
+        <a class="btn-primary" href="https://github.com/Andrew-Davis-Ai-portfolio/FLAME-LANGUAGE-GENESIS" target="_blank" rel="noopener">
+          Open GitHub Repository
+        </a>
+      </div>
+    </section>
 
     <!-- CREST -->
     <section class="crest-section">
@@ -31,19 +59,16 @@
       <p class="section-subtitle">Halo Cycle · Prime Fire Key · Codex Seal</p>
 
       <div class="crest-frame">
-        <object data="crest.svg"
-                type="image/svg+xml"
-                class="crest-object"
-                aria-label="Flame Division Crest"></object>
+        <object data="crest.svg" type="image/svg+xml" class="crest-object" aria-label="Flame Division Crest"></object>
       </div>
     </section>
 
-    <!-- CORE MODULES (NUMERICS + GLYPHS + GRAMMAR) -->
+    <!-- MODULE GRID -->
     <section class="grid">
       <article class="card">
         <h3>Module I — Fire Numerics</h3>
         <p class="mono">
-          0 Void · 1 Spark · 2 Flow · 3 Arc · 4 Foundation<br/>
+          0 Void · 1 Spark · 2 Flow · 3 Arc · 4 Foundation<br />
           5 Pulse · 6 Collapse · 7 Ascent · 8 Circuit · 9 Resurrection
         </p>
       </article>
@@ -51,7 +76,8 @@
       <article class="card">
         <h3>Module II — 36 Glyph Alphabet</h3>
         <p>
-          27 Base Glyphs (Elements · Actions · States) + 9 Crown Glyphs (Crown · Halo · Gate · Core · Path · Cycle · Key · Seal · Eye).
+          27 Base Glyphs (Elements · Actions · States) + 9 Crown Glyphs
+          (Crown · Halo · Gate · Core · Path · Cycle · Key · Seal · Eye).
           Together they define the full symbolic field of Flame Language.
         </p>
       </article>
@@ -59,16 +85,18 @@
       <article class="card">
         <h3>Module III — Fire Grammar</h3>
         <p>
-          Sentence flow: <strong>Source → Motion → Outcome</strong>.<br/>
-          Bound by Angle Alignment, Energy Direction, and Numeric Signature across Past (↓), Present (•), and Future (↑).
+          Sentence flow: <strong>Source → Motion → Outcome</strong>.<br />
+          Bound by Angle Alignment, Energy Direction, and Numeric Signature
+          across Past (↓), Present (•), and Future (↑).
         </p>
       </article>
 
       <article class="card">
         <h3>Module IV — Fire Cipher</h3>
         <p>
-          Four-layer cipher: Base Glyph · Numeric Shift · Rotation Signature · Fire Seal Lock.
-          Modes: Public, Private (Flame Key), and Codex Flame (Sealed Layer).
+          Four-layer cipher: Base Glyph · Numeric Shift · Rotation Signature ·
+          Fire Seal Lock. Modes: Public, Private (Flame Key), and Codex Flame
+          (Sealed Layer).
         </p>
       </article>
 
@@ -76,15 +104,17 @@
         <h3>Module V — Script System</h3>
         <p>
           Operational writing runs Left → Right. Ritual writing spirals inward.
-          Stroke order: Ignite → Flow → Ground → Seal. Styles: Block, Rune, Halo.
+          Stroke order: Ignite → Flow → Ground → Seal. Styles: Block, Rune,
+          Halo.
         </p>
       </article>
 
       <article class="card">
         <h3>Module VI — Spoken Flame</h3>
         <p>
-          Energy consonants (F R K S G V H L T) combine with breath vowels (A O U E) in the pattern
-          <strong>Energy + Breath</strong>. Examples: Ka · Su · Ra · Fo · Lu.
+          Energy consonants (F R K S G V H L T) combine with breath vowels
+          (A O U E) in the pattern <strong>Energy + Breath</strong>.
+          Examples: Ka · Su · Ra · Fo · Lu.
         </p>
       </article>
     </section>
@@ -142,9 +172,7 @@
       </p>
     </section>
 
-    <!-- AUDIO -->
-   
-          <!-- AUDIO / VOICE LAYER -->
+    <!-- VOICE LAYER -->
     <section class="audio">
       <h2>🎧 Flame Voice Layer</h2>
       <p class="audio-text">
@@ -154,6 +182,7 @@
       <div class="audio-controls">
         <button class="btn-ghost" onclick="__playFlameNarration()">Play Flame Narration</button>
         <button class="btn-ghost" onclick="__playHaloChant()">Play Halo Ritual Voice</button>
+        <button class="btn-ghost" onclick="__playCommanderMode()">Play Commander Mode</button>
       </div>
 
       <p class="audio-note">
@@ -161,7 +190,6 @@
         (Chrome, Edge, Safari, and most mobile browsers after a tap).
       </p>
     </section>
-   
 
     <!-- HALO RITUAL -->
     <section class="halo">
@@ -178,7 +206,7 @@
     <section class="codex">
       <h2>Codex Flame — Sealed Layer</h2>
       <p class="mono">
-        Mirror Law: Creation ↔ Anti-Creation<br/>
+        Mirror Law: Creation ↔ Anti-Creation<br />
         Seal Format: [Glyph] + [Rotation] + [Shift] + [Direction] (e.g., ϟ̃⁴ ↻)
       </p>
       <p class="prime-key">
@@ -186,14 +214,13 @@
       </p>
     </section>
 
-    <!-- FOOTER -->
     <footer class="footer">
       <div class="sigil">🔥 𖤐 🔥</div>
       <p>The Language is complete. The Halo is set. The Codex is active.</p>
     </footer>
   </div>
 
-   <script src="codex.js"></script>
+  <script src="codex.js"></script>
   <script src="voice.js"></script>
 </body>
 </html>
