@@ -202,3 +202,9 @@ The Halo is set.
 The Codex is active.  
 
 <p align="center">🔥 𖤐 🔥</p>
+
+## 🟡 Live Flame Language Codex
+
+For the full crest, halo cycle, and interactive codex:
+
+[🔥 Open Flame Language Genesis Landing Page](https://andrew-davis-ai-portfolio.github.io/FLAME-LANGUAGE-GENESIS/)
