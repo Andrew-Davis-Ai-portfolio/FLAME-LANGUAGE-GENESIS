@@ -158,14 +158,24 @@
         Audio is <strong>off by default</strong>. Use headphones for best effect. Your browser may ask for permission the first time you press play.
       </p>
 
-      <audio id="audio-ambience" loop preload="auto" controls>
-  <source src="audio/flame-ambience.mp3" type="audio/mpeg" />
-</audio>
+          <!-- AUDIO / VOICE LAYER -->
+    <section class="audio">
+      <h2>🎧 Flame Voice Layer</h2>
+      <p class="audio-text">
+        Browser-native speech synthesis so the Codex can speak for itself — no audio files required. Tap a button to hear the narrative.
+      </p>
 
-<audio id="audio-ping" preload="auto" controls>
-  <source src="audio/glyph-ping.mp3" type="audio/mpeg" />
-</audio>
+      <div class="audio-controls">
+        <button class="btn-ghost" onclick="__playFlameNarration()">Play Flame Narration</button>
+        <button class="btn-ghost" onclick="__playHaloChant()">Play Halo Ritual Voice</button>
+      </div>
+
+      <p class="audio-note">
+        Audio is <strong>off by default</strong>. Works best in modern browsers with speech synthesis support
+        (Chrome, Edge, Safari, and most mobile browsers after a tap).
+      </p>
     </section>
+   
 
     <!-- HALO RITUAL -->
     <section class="halo">
