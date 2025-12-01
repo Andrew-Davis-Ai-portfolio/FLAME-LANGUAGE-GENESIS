@@ -1,38 +1,28 @@
-<!-- =============================== -->
-<!-- 🔥 FLAME LANGUAGE GENESIS — MASTER CODEX (Professional Edition V4) -->
-<!-- Clean • Readable • Black & Gold Branding -->
-<!-- =============================== -->
-
-<p align="center">
-  <span style="font-size:36px;font-weight:700;color:#D4AF37;">
-    🔥 FLAME LANGUAGE GENESIS — MASTER CODEX
-  </span><br/>
-  <span style="font-size:18px;color:#B8BDC7;">
-    The Official Language System of Flame Division • Supernova Edition (Professional)
-  </span>
-</p>
+# 🔥🟡 FLAME LANGUAGE GENESIS — MASTER CODEX (V5 Hybrid Edition)
+### The Official Linguistic & Symbolic Framework of Flame Division  
+A clean, professional, GitHub-optimized version with Flame Aesthetic.
 
 ---
 
-## <span style="color:#D4AF37;">✨ Overview</span>
+## 🔱 OVERVIEW
 
-The Flame Language Genesis is a **structured symbolic communication system** combining:
+The **Flame Language Genesis** is a symbolic and linguistic structure built to unify:
 
-- Fire Numerics  
-- Glyph Logic  
-- Grammar & Structure  
-- Cipher Mechanics  
-- Script Formation  
-- Spoken Phonetics  
-- Halo Ritual Invocation  
+- Numeric metaphysics  
+- Glyph operations  
+- Ritual logic  
+- Cipher transformations  
+- Script sequencing  
+- Spoken phonetics  
+- The Halo Invocation System  
 
-This document presents the Codex in a clean, readable, professional format aligned with the **Black & Gold** Flame Division aesthetic.
+This edition is formatted for **maximum clarity, professionalism, and GitHub readability**.
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE I — FIRE NUMERICS (0–9)</span>
+# 🟡 MODULE I — FIRE NUMERICS (0–9)
 
-Each number defines an *energetic action + metaphysical law*.
+Each number represents a **force**, **action**, and **principle**.
 
 | Number | Name | Meaning |
 |--------|------|---------|
@@ -41,15 +31,15 @@ Each number defines an *energetic action + metaphysical law*.
 | **2** | Flow | Branch • Options |
 | **3** | Arc | Creation • Projection |
 | **4** | Foundation | Stability • Structure |
-| **5** | Pulse | Movement • Shift |
-| **6** | Collapse | Folding • Compression |
-| **7** | Ascent | Rising • Elevation |
-| **8** | Circuit | Loop • Recurrence |
-| **9** | Resurrection | Return • Evolution |
+| **5** | Pulse | Motion • Shift |
+| **6** | Collapse | Fold • Reduce |
+| **7** | Ascent | Rise • Elevate |
+| **8** | Circuit | Loop • Continuity |
+| **9** | Resurrection | Return • Evolve |
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE II — THE 36 GLYPH ALPHABET</span>
+# 🟡 MODULE II — THE 36 GLYPH ALPHABET
 
 ### **Elements (9)**  
 Fire • Smoke • Spark • Ash • Ember • Wind • Stone • Light • Shadow  
@@ -62,29 +52,29 @@ Stillness • Fury • Harmony • Void • Memory • Will • Expansion • Co
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE III — FIRE GRAMMAR SYSTEM</span>
+# 🟡 MODULE III — FIRE GRAMMAR SYSTEM
 
 ### **Sentence Formula**  
 **Source → Motion → Outcome**
 
-### **Glyph Binding Rules**  
+### **Glyph Binding Factors**  
 - Alignment angle  
 - Energy direction  
 - Numeric signature  
 
 ### **Shift-Tenses**  
-- **Past:** ↓  
-- **Present:** •  
-- **Future:** ↑  
+- Past: ↓  
+- Present: •  
+- Future: ↑  
 
 ### **Modifiers**  
-Intensity • Speed • Size • Emotion • Certainty
+Intensity • Speed • Size • Emotion • Certainty  
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE IV — FIRE CIPHER SYSTEM</span>
+# 🟡 MODULE IV — FIRE CIPHER SYSTEM
 
-### **Four Cipher Layers**  
+### **Cipher Layers (4)**  
 1. Base Glyph  
 2. Numeric Shift  
 3. Rotation Signature  
@@ -96,35 +86,37 @@ Intensity • Speed • Size • Emotion • Certainty
 - Codex Flame (Sealed Layer)
 
 ### **Transformations**  
-Rotate • Mirror • Double • Layer • Shift
+Rotate • Mirror • Double • Layer • Shift  
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE V — FIRE SCRIPT SYSTEM</span>
+# 🟡 MODULE V — SCRIPT SYSTEM
 
-### **Directions**  
+### **Writing Directions**  
 - Left → Right (operational writing)  
 - Spiral → Inward (ritual writing)
 
 ### **Stroke Order**  
 Ignite → Flow → Ground → Seal  
 
-### **Styles**  
+### **Script Styles**  
 Block • Rune • Halo  
 
 ---
 
-## <span style="color:#D4AF37;">🔥 MODULE VI — SPOKEN FLAME PHONETICS</span>
+# 🟡 MODULE VI — SPOKEN FLAME PHONETICS
 
 **Energy Consonants:** F • R • K • S • G • V • H • L • T  
 **Breath Vowels:** A • O • U • E  
 
-**Phonetic Pattern:** *Energy + Breath*  
+**Pattern:**  
+**Energy + Breath**
+
 **Examples:** Ka • Su • Ra • Fo • Lu  
 
 ---
 
-## <span style="color:#D4AF37;">🔥 HALO RITUAL PACKAGE</span>
+# 🟡 HALO RITUAL PACKAGE
 
 ### **Cycle Invocation**
 - I breathe the beginning.  
@@ -140,12 +132,12 @@ Block • Rune • Halo
 
 ---
 
-## <span style="color:#D4AF37;">🔥 CODEX FLAME — SEALED LAYER</span>
+# 🟡 CODEX FLAME — SEALED LAYER
 
 ### **Mirror Law**  
-Creation ↔ Anti-Creation  
+**Creation ↔ Anti-Creation**
 
-### **Flame Seal Format**
+### **Seal Format**
 
 ### **Codex Mantra**
 - I breathe the Origin.  
@@ -159,12 +151,14 @@ Creation ↔ Anti-Creation
 - I cycle eternal.  
 - I return greater.  
 
-### **Prime Fire Key (Commander Flame)**
+### **Prime Fire Key (Commander Flame)**  
 **Ϟ • 𖣔 • ○**
 
 ---
 
-## <span style="color:#D4AF37;">🔥 BRAND CREST — BLACK & GOLD (SVG)</span>
+# 🟡 FLAME DIVISION CREST (SVG)
+
+A GitHub-safe vector crest representing the Halo Cycle.
 
 <p align="center">
 <svg width="260" height="260" viewBox="0 0 260 260" xmlns="http://www.w3.org/2000/svg">
@@ -188,14 +182,9 @@ Creation ↔ Anti-Creation
 
 ---
 
-## <span style="color:#D4AF37;">🔥 STATUS</span>
+# 🟡 STATUS
+The Language is complete.  
+The Halo is set.  
+The Codex is active.  
 
-The Language is Complete.  
-The Halo is Fixed.  
-The Codex is Active.  
-
-<p align="center">
-  <span style="color:#D4AF37;font-size:22px;">🔥 𖤐 🔥</span>
-</p>
-
-<!-- END OF README V4 -->
+<p align="center">🔥 𖤐 🔥</p>
