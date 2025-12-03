@@ -12,3 +12,27 @@
 .fe-F001-gold {
   background-image: url('./png/F001_num_1_gold.png');
 }
+
+.flame-emoji {
+  display: inline-block;
+  width: 1.25em;
+  height: 1.25em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: text-bottom;
+}
+
+/* Examples — map class to assets */
+.fe-F001-gold {
+  background-image: url('./png/F001_num_1_gold.png');
+}
+.fe-F001-holo {
+  background-image: url('./png/F001_num_1_holo.png');
+}
+.fe-F001-red {
+  background-image: url('./png/F001_num_1_red.png');
+}
+.fe-F001-white {
+  background-image: url('./png/F001_num_1_white.png');
+}
