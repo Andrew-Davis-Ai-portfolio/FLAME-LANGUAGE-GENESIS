@@ -1,0 +1,25 @@
+{
+  "default_style": "gold",
+  "styles": {
+    "gold": {
+      "label": "Goldfire Codex",
+      "class_suffix": "gold",
+      "description": "Official Flame Division aesthetic."
+    },
+    "holo": {
+      "label": "Holographic Cyan",
+      "class_suffix": "holo",
+      "description": "Futuristic / AI / HUD style."
+    },
+    "red": {
+      "label": "Ritual Red",
+      "class_suffix": "red",
+      "description": "Combat / combat log / warning mode."
+    },
+    "white": {
+      "label": "Whitefire Halo",
+      "class_suffix": "white",
+      "description": "Ritual / spiritual / ceremonial mode."
+    }
+  }
+}
