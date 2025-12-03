@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Flame Language Genesis — Universal Codex</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+                   "Segoe UI", sans-serif;
+      background: #05070c;
+      color: #f7f7ff;
+    }
+
+    .fd-shell {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 24px 16px 60px;
+    }
+
+    .fd-tag {
+      display: inline-block;
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-size: 11px;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      background: rgba(245,181,68,0.12);
+      border: 1px solid rgba(245,181,68,0.6);
+      color: #f5b544;
+      margin-bottom: 8px;
+    }
+
+    h1 {
+      font-size: clamp(1.9rem, 3vw, 2.4rem);
+      margin: 0 0 6px;
+    }
+
+    h2 {
+      margin-top: 32px;
+      margin-bottom: 8px;
+      font-size: 1.2rem;
+    }
+
+    p {
+      margin: 0 0 10px;
+      line-height: 1.55;
+      color: #b0b7c9;
+    }
+
+    .fd-card {
+      border-radius: 18px;
+      padding: 18px 16px;
+      background: radial-gradient(circle at top left, #282845 0, #05070c 55%);
+      border: 1px solid rgba(255,255,255,0.06);
+      margin-bottom: 18px;
+    }
+
+    .fd-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 8px;
+    }
+
+    .fd-lang-switcher {
+      display: flex;
+      gap: 6px;
+      align-items: center;
+      font-size: 13px;
+    }
+
+    select {
+      background: #101624;
+      color: #f7f7ff;
+      border-radius: 999px;
+      border: 1px solid rgba(255,255,255,0.16);
+      padding: 4px 10px;
+      font-size: 13px;
+    }
+
+    button {
+      border-radius: 999px;
+      border: none;
+      cursor: pointer;
+      font-size: 13px;
+      padding: 8px 14px;
+      margin: 4px 4px 0 0;
+      background: linear-gradient(135deg, #f5b544, #ff7b39);
+      color: #05070c;
+      font-weight: 600;
+      box-shadow: 0 0 0 1px rgba(0,0,0,0.22),
+                  0 12px 30px rgba(0,0,0,0.45);
+      transition: transform 0.12s ease, box-shadow 0.12s ease;
+    }
+
+    button:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 14px 34px rgba(0,0,0,0.6);
+    }
+
+    button.fd-secondary {
+      background: transparent;
+      color: #f7f7ff;
+      border: 1px solid rgba(244,244,255,0.24);
+      box-shadow: none;
+    }
+
+    .fd-mono {
+      font-family: "SF Mono", ui-monospace, Menlo, Monaco, Consolas, monospace;
+      font-size: 12px;
+      letter-spacing: 0.05em;
+    }
+
+    .fd-foot {
+      margin-top: 32px;
+      font-size: 11px;
+      color: #7c8399;
+    }
+  </style>
+</head>
+<body>
+  <div class="fd-shell" id="fd-app" data-lang="en">
+
+    <!-- HERO -->
+    <div class="fd-card">
+      <div class="fd-row">
+        <div>
+          <div class="fd-tag" data-i18n="tag_flame_division">Flame Division</div>
+          <h1 data-i18n="title">Flame Language Genesis</h1>
+          <p data-i18n="subtitle">
+            Master Codex · Glyph System · Halo Cycle
+          </p>
+        </div>
+
+        <div class="fd-lang-switcher">
+          <span data-i18n="label_language">Language</span>
+          <select id="fd-lang-select">
+            <option value="auto" data-i18n="opt_auto">🌐 Auto</option>
+            <option value="en">English</option>
+            <option value="es">Español</option>
+            <option value="fr">Français</option>
+            <option value="pt">Português</option>
+            <option value="de">Deutsch</option>
+            <option value="ar">العربية</option>
+            <option value="hi">हिन्दी</option>
+            <option value="zh">中文</option>
+            <option value="ja">日本語</option>
+            <option value="ko">한국어</option>
+            <option value="ru">Русский</option>
+            <!-- Any other language can be added here without code changes -->
+          </select>
+        </div>
+      </div>
+
+      <button id="fd-open-github"
+              class="fd-secondary"
+              data-i18n="btn_open_repo">
+        Open GitHub Repository
+      </button>
+    </div>
+
+    <!-- FIRE NUMERICS -->
+    <div class="fd-card">
+      <h2 data-i18n="module_fire_numerics">Module I — Fire Numerics</h2>
+      <p class="fd-mono" data-i18n="fire_numerics_line">
+        0 Void · 1 Spark · 2 Flow · 3 Arc · 4 Foundation ·
+        5 Pulse · 6 Collapse · 7 Ascent · 8 Circuit · 9 Resurrection
+      </p>
+      <p data-i18n="fire_numerics_explainer">
+        Numbers never translate — only their names do. Fire Numerics remain a
+        universal backbone across every language.
+      </p>
+    </div>
+
+    <!-- GLYPH + GRAMMAR SUMMARY -->
+    <div class="fd-card">
+      <h2 data-i18n="module_glyphs">Module II — 36 Glyph Alphabet</h2>
+      <p data-i18n="glyphs_text">
+        27 Base Glyphs define elements, actions, and states. 9 Crown Glyphs
+        define Crown, Halo, Gate, Core, Path, Cycle, Key, Seal, and Eye.
+        Together they form the full symbolic field of Flame Language.
+      </p>
+
+      <h2 data-i18n="module_grammar">Module III — Fire Grammar</h2>
+      <p data-i18n="grammar_text">
+        Sentences flow as Source → Motion → Outcome, aligned to numeric
+        signatures across Past (↓), Present (•), and Future (↑).
+      </p>
+    </div>
+
+    <!-- HALO RITUAL + VOICE -->
+    <div class="fd-card">
+      <h2 data-i18n="halo_title">Halo Ritual Package</h2>
+      <p id="fd-halo-text" data-i18n="halo_text">
+        I breathe the beginning. I strike the spark. I choose the path.
+        I shape the arc. I anchor the flame. I shift the pulse. I fold the past.
+        I ascend unseen. I cycle eternal. I return greater.
+      </p>
+
+      <button type="button"
+              onclick="fdSpeak('halo_text')"
+              data-i18n="btn_play_halo">
+        Play Halo Ritual Voice
+      </button>
+
+      <button type="button"
+              onclick="fdSpeak('commander_mode_text')"
+              class="fd-secondary"
+              data-i18n="btn_play_commander">
+        Play Commander Mode
+      </button>
+    </div>
+
+    <!-- COMMANDER MODE TEXT (HIDDEN, VOICE ONLY) -->
+    <div style="display:none">
+      <p id="fd-commander-text" data-i18n="commander_mode_text">
+        Flame Language Genesis is a complete Codex — glyph system, Halo Cycle,
+        and neural memory spine. The glyphs stay universal; the story adapts to
+        every tongue.
+      </p>
+    </div>
+
+    <div class="fd-foot">
+      <div data-i18n="foot_note">
+        Audio uses browser-native speech synthesis. If your language isn’t in
+        the menu yet, the page still works — you can also use your browser’s
+        built-in translate feature.
+      </div>
+    </div>
+  </div>
+
+  <script src="lang.js"></script>
+</body>
+</html>
