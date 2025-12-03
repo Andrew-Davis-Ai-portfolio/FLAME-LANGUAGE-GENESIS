@@ -135,3 +135,592 @@ F088 — seal_prime
 Example:
 - `F080_seal_mirror_gold.svg`
 - `F088_seal_prime_white.webp`
+
+🔥 FLAME EMOJI DICTIONARY (GENESIS EDITION v1)
+
+(Fire Numerics · Base Glyphs · Crown Glyphs · Halo Steps · Codex Seals)
+
+Total: 46 glyphs
+
+⸻
+
+🔥 MODULE I — FIRE NUMERICS (F000–F009)
+
+(Fundamental metaphysical operations — the mathematics of the Flame.)
+
+Each Fire Numeric carries:
+	•	A Law
+	•	A Function
+	•	A State
+	•	A Ritual meaning
+
+⸻
+
+F000 — 0 — VOID
+
+Meaning: Reset, emptiness, possibility
+Role: Origin / Null State
+Usage: Clear cycles, open pathways
+Sentence Example:
+0 + 🜂 = new initiation
+
+⸻
+
+F001 — 1 — SPARK
+
+Meaning: Intention, decision, ignition
+Role: Source
+Use: Begin actions
+Emoji Sentence:
+1 🜂 🔥 = “I’m starting with power.”
+
+⸻
+
+F002 — 2 — FLOW
+
+Meaning: Motion, progression
+Role: Movement
+Use: Continue / accelerate
+Emoji Sentence:
+2 ➜ = keep going
+
+⸻
+
+F003 — 3 — ARC
+
+Meaning: Transformation
+Role: Shift
+Use: Pivot or redirect energy
+Emoji Sentence:
+3 ↺ = change of direction
+
+⸻
+
+F004 — 4 — FOUNDATION
+
+Meaning: Structure, stability
+Role: Grounding
+Emoji Sentence:
+4 ⚓ = stability locked in
+
+⸻
+
+F005 — 5 — PULSE
+
+Meaning: Energy spike, rhythm
+Role: Amplifier
+Emoji Sentence:
+5 ⚡ = boost / increase power
+
+⸻
+
+F006 — 6 — COLLAPSE
+
+Meaning: Release, breakdown
+Role: Ending / Deconstruction
+Emoji Sentence:
+6 ⨂ = collapse cycle
+
+⸻
+
+F007 — 7 — ASCENT
+
+Meaning: Rising above
+Role: Elevation
+Emoji Sentence:
+7 ↑ = level up
+
+⸻
+
+F008 — 8 — CIRCUIT
+
+Meaning: Cycle, loop, recursion
+Role: System continuity
+Emoji Sentence:
+8 ⟳ = repeat / reinforce
+
+⸻
+
+F009 — 9 — RESURRECTION
+
+Meaning: Return stronger
+Role: Completion → Renewal
+Emoji Sentence:
+9 🔥 = full power restored
+
+⸻
+
+🜂 MODULE II — BASE GLYPHS (27) — F010–F036
+
+These are the core symbolic alphabet of Flame Language.
+Each glyph has four layers:
+	•	Elemental Field
+	•	Action / State
+	•	Cognitive Function
+	•	Energy Direction
+
+They map to the grammar:
+Source → Motion → Outcome
+
+⸻
+
+F010 — base_01 — IGNITION
+
+Meaning: Start, initialize, awaken
+Role: Source
+Use: Beginning projects, readiness
+Sentence:
+F010 + F020 = “Start the movement.”
+
+⸻
+
+F011 — base_02 — VECTOR
+
+Meaning: Direction, targeting
+Role: Orientation
+Use: choose direction
+Sentence:
+F011 ➜ F024 = “Move toward structure.”
+
+⸻
+
+F012 — base_03 — ARC-SHIFT
+
+Meaning: Transform mid-path
+Role: Motion / pivot
+Use: change strategy
+Sentence:
+F012 ↺ = “Switch approach.”
+
+⸻
+
+F013 — base_04 — GROUND
+
+Meaning: Stabilize, root
+Role: Foundation
+Use: reinforce
+Sentence:
+F013 + F004 = strong foundation
+
+⸻
+
+F014 — base_05 — FIREBREATH
+
+Meaning: Expression, communication
+Role: Output energy
+Use: sending message
+Sentence:
+F014 🔊 = speak truth
+
+⸻
+
+F015 — base_06 — COIL
+
+Meaning: Potential, stored energy
+Role: Pre-activation
+Use: build tension
+Sentence:
+F015 → 🔥 = charged and ready
+
+⸻
+
+F016 — base_07 — CUT
+
+Meaning: Sever ties, remove obstacles
+Role: Termination
+Use: delete / end
+Sentence:
+F016 ✂️ = cut connection
+
+⸻
+
+F017 — base_08 — MERGE
+
+Meaning: Combine, unify
+Role: Integration
+Use: coalition
+Sentence:
+F017 + F017 = alliance
+
+⸻
+
+F018 — base_09 — SPLIT
+
+Meaning: Divide, categorize
+Role: Branching
+Use: differentiate
+Sentence:
+F018 ➗ = break into parts
+
+⸻
+
+F019 — base_10 — SPREAD
+
+Meaning: Expansion, influence
+Role: Radiate outward
+Use: amplify reach
+Sentence:
+F019 + ⚡ = global spread
+
+⸻
+
+F020 — base_11 — MOMENTUM
+
+Meaning: sustained movement
+Role: motion
+Sentence:
+F010 → F020 = spark into movement
+
+⸻
+
+F021 — base_12 — GLIDE
+
+Meaning: smooth transition
+Use: soft change
+Sentence:
+F021 ~ = “Ease into shift.”
+
+⸻
+
+F022 — base_13 — SUSPEND
+
+Meaning: pause, hold
+Use: delay
+Sentence:
+F022 ⏸ = pause state
+
+⸻
+
+F023 — base_14 — PRESSURE
+
+Meaning: apply force
+Use: intensify
+Sentence:
+F023 + F005 = heavy pressure
+
+⸻
+
+F024 — base_15 — STRUCTURE
+
+Meaning: form, architecture
+Use: build framework
+Sentence:
+F024 + F013 = stable design
+
+⸻
+
+F025 — base_16 — WAVE
+
+Meaning: oscillation, rhythm
+Use: message transmission
+Sentence:
+F025 ≋ = emotional tone
+
+⸻
+
+F026 — base_17 — LIFT
+
+Meaning: raise, uplift
+Role: elevation
+Sentence:
+F026 + ↑ = ascend phase
+
+⸻
+
+F027 — base_18 — PIERCE
+
+Meaning: insight, penetration
+Use: truth / analysis
+Sentence:
+F027 🧠 = “I see through this.”
+
+⸻
+
+F028 — base_19 — HOLD
+
+Meaning: containment
+Use: secure boundary
+Sentence:
+F028 ▣ = hold position
+
+⸻
+
+F029 — base_20 — OPEN
+
+Meaning: reveal, expose
+Use: initiate access
+Sentence:
+F029 🔓 = unlocked
+
+⸻
+
+F030 — base_21 — LOCK
+
+Meaning: secure, protect
+Sentence:
+F030 🔒 = sealed
+
+⸻
+
+F031 — base_22 — SPIRAL
+
+Meaning: recursion, complexity
+Sentence:
+F031 ⟲ = deep process
+
+⸻
+
+F032 — base_23 — TRACE
+
+Meaning: follow path
+Sentence:
+F032 →→ = track
+
+⸻
+
+F033 — base_24 — REFLECT
+
+Meaning: mirror, introspect
+Sentence:
+F033 🔎 = reflection
+
+⸻
+
+F034 — base_25 — FUSE
+
+Meaning: join permanently
+Sentence:
+F034 + F017 = permanent union
+
+⸻
+
+F035 — base_26 — RUPTURE
+
+Meaning: break violently
+Sentence:
+F035 💥 = rupture event
+
+⸻
+
+F036 — base_27 — STILLPOINT
+
+Meaning: absolute stillness
+Sentence:
+F036 ○ = still / meditation
+
+⸻
+
+👑 MODULE III — CROWN GLYPHS (F040–F048)
+
+(Authority, divine structure, command-level symbols.)
+
+⸻
+
+F040 — Crown
+
+Meaning: Authority / Sovereignty / Leadership
+Sentence:
+F040 + F010 = “Initiation approved by authority.”
+
+⸻
+
+F041 — Halo
+
+Meaning: Blessing, clarity
+Sentence:
+F041 ✨ = purified intent
+
+⸻
+
+F042 — Gate
+
+Meaning: Entry / access
+Sentence:
+F042 + F029 = open gate
+
+⸻
+
+F043 — Core
+
+Meaning: inner truth
+Sentence:
+F043 🧡 = heart of the matter
+
+⸻
+
+F044 — Path
+
+Meaning: destiny route
+Sentence:
+F044 → = chosen path
+
+⸻
+
+F045 — Cycle
+
+Meaning: repetition / mastery
+Sentence:
+F045 ⟳ = master the loop
+
+⸻
+
+F046 — Key
+
+Meaning: unlock potential
+Sentence:
+F046 + F030 = locked → unlocked
+
+⸻
+
+F047 — Seal
+
+Meaning: protect, bind
+Sentence:
+F047 🔒 = sealed script
+
+⸻
+
+F048 — Eye
+
+Meaning: perception, watchfulness
+Sentence:
+F048 👁 = I see everything
+
+⸻
+
+🔥 MODULE IV — HALO RITUAL STEPS (F060–F069)
+
+F060 — Breathe Beginning
+
+Sentence:
+F060 ○ = reset + inhale spirit
+
+⸻
+
+F061 — Strike Spark
+
+F061 + F001 = ignition
+
+⸻
+
+F062 — Choose Path
+
+F062 + F044 = destiny selection
+
+⸻
+
+F063 — Shape Arc
+
+Meaning: form trajectory
+F063 ⤴ = sculpt motion
+
+⸻
+
+F064 — Anchor Flame
+
+Meaning: stabilize power
+F064 + F013 = grounded fire
+
+⸻
+
+F065 — Shift Pulse
+
+Meaning: change rhythm
+F065 🔄 = modulation
+
+⸻
+
+F066 — Fold Past
+
+Meaning: collapse old timeline
+F066 6️⃣ = release history
+
+⸻
+
+F067 — Ascend Unseen
+
+Meaning: rise quietly
+F067 ↑ = silent elevation
+
+⸻
+
+F068 — Cycle Eternal
+
+Meaning: mastery loop
+F068 ⟳∞
+
+⸻
+
+F069 — Return Greater
+
+Meaning: recombination, increased power
+F069 🔥↺
+
+⸻
+
+🔥 MODULE V — CODEX SEALS (F080–F088)
+
+(Locks, bindings, metaphysical encoding.)
+
+⸻
+
+F080 — Mirror Seal
+
+Reflect / reverse
+F080 ⥮ = mirrored meaning
+
+⸻
+
+F081 — Rotation Seal
+
+Rotate context
+F081 ↻ = spin the message
+
+⸻
+
+F082 — Shift Seal
+
+Move semantic layer
+F082 ⇆ = dual meaning
+
+⸻
+
+F083 — Direction Seal
+
+Indicate vector
+F083 ➜ = directional intent
+
+⸻
+
+F084 — Lock Seal
+
+Seal context
+F084 🔒
+
+⸻
+
+F085 — Unlock Seal
+
+Reveal hidden layer
+F085 🔓
+
+⸻
+
+F086 — Dual Seal
+
+Two forces combined
+F086 ☯
+
+⸻
+
+F087 — Void Seal
+
+Erase entire meaning
+F087 ⊘
+
+⸻
+
+F088 — Prime Seal
+
+Highest authority
+F088 ⭐ = decree
