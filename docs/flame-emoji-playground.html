@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <title>Flame Language Playground</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="flame-emoji/flame-emoji.css" />
+  <style>
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "SF Pro Text",
+                   "Segoe UI", sans-serif;
+      background: #05070c;
+      color: #f7f7ff;
+      padding: 24px 16px 48px;
+    }
+    .shell {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    h1 { margin-bottom: 6px; }
+    p { color: #b0b7c9; }
+    .row { margin-top: 24px; }
+    .demo {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      align-items: center;
+      margin-top: 12px;
+      padding: 12px;
+      border-radius: 14px;
+      background: radial-gradient(circle at top left,#26263f,#05070c 60%);
+      border: 1px solid rgba(255,255,255,0.06);
+    }
+    .label {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: 0.12em;
+      color: #f5b544;
+    }
+    .text {
+      font-size: 14px;
+      color: #d0d5ea;
+    }
+  </style>
+</head>
+<body>
+  <div class="shell">
+    <h1>🔥 Flame Language Playground</h1>
+    <p>Preview of the Flame Emoji Language — F-codes rendered as glyphs with meanings.</p>
+
+    <!-- Example 1: "I'm ready" → F015 + F001 -->
+    <div class="row">
+      <div class="label">Sentence 1 · “I’m ready”</div>
+      <div class="demo">
+        <span class="flame-emoji fe-F015-gold"></span>
+        <span class="flame-emoji fe-F001-gold"></span>
+        <span class="text">= Coil + Spark (charged and ready)</span>
+      </div>
+    </div>
+
+    <!-- Example 2: "Lock it in" → F024 + F030 + F047 -->
+    <div class="row">
+      <div class="label">Sentence 2 · “Lock it in”</div>
+      <div class="demo">
+        <span class="flame-emoji fe-F024-gold"></span>
+        <span class="flame-emoji fe-F030-gold"></span>
+        <span class="flame-emoji fe-F047-gold"></span>
+        <span class="text">= Structure + Lock + Seal (foundation locked)</span>
+      </div>
+    </div>
+
+    <!-- Example 3: “Return stronger” → F069 -->
+    <div class="row">
+      <div class="label">Sentence 3 · “Return stronger”</div>
+      <div class="demo">
+        <span class="flame-emoji fe-F069-gold"></span>
+        <span class="text">= Return Greater</span>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
