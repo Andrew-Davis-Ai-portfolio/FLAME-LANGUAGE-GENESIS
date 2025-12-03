@@ -1,0 +1,373 @@
+{
+  "name": "Flame Emoji Language Pack",
+  "version": "1.0.0",
+  "author": "Flame Division",
+  "styles": ["gold", "holo", "red", "white"],
+  "basePath": "/flame-emoji",
+  "emojis": [
+    {
+      "code": "F000",
+      "shortname": "num_0",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 0 — Void",
+      "styles": {
+        "gold": "png/F000_num_0_gold.png",
+        "holo": "png/F000_num_0_holo.png",
+        "red": "png/F000_num_0_red.png",
+        "white": "png/F000_num_0_white.png"
+      }
+    },
+    {
+      "code": "F001",
+      "shortname": "num_1",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 1 — Spark",
+      "styles": {
+        "gold": "png/F001_num_1_gold.png",
+        "holo": "png/F001_num_1_holo.png",
+        "red": "png/F001_num_1_red.png",
+        "white": "png/F001_num_1_white.png"
+      }
+    },
+    {
+      "code": "F002",
+      "shortname": "num_2",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 2 — Flow",
+      "styles": {
+        "gold": "png/F002_num_2_gold.png",
+        "holo": "png/F002_num_2_holo.png",
+        "red": "png/F002_num_2_red.png",
+        "white": "png/F002_num_2_white.png"
+      }
+    },
+    {
+      "code": "F003",
+      "shortname": "num_3",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 3 — Arc",
+      "styles": {
+        "gold": "png/F003_num_3_gold.png",
+        "holo": "png/F003_num_3_holo.png",
+        "red": "png/F003_num_3_red.png",
+        "white": "png/F003_num_3_white.png"
+      }
+    },
+    {
+      "code": "F004",
+      "shortname": "num_4",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 4 — Foundation",
+      "styles": {
+        "gold": "png/F004_num_4_gold.png",
+        "holo": "png/F004_num_4_holo.png",
+        "red": "png/F004_num_4_red.png",
+        "white": "png/F004_num_4_white.png"
+      }
+    },
+    {
+      "code": "F005",
+      "shortname": "num_5",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 5 — Pulse",
+      "styles": {
+        "gold": "png/F005_num_5_gold.png",
+        "holo": "png/F005_num_5_holo.png",
+        "red": "png/F005_num_5_red.png",
+        "white": "png/F005_num_5_white.png"
+      }
+    },
+    {
+      "code": "F006",
+      "shortname": "num_6",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 6 — Collapse",
+      "styles": {
+        "gold": "png/F006_num_6_gold.png",
+        "holo": "png/F006_num_6_holo.png",
+        "red": "png/F006_num_6_red.png",
+        "white": "png/F006_num_6_white.png"
+      }
+    },
+    {
+      "code": "F007",
+      "shortname": "num_7",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 7 — Ascent",
+      "styles": {
+        "gold": "png/F007_num_7_gold.png",
+        "holo": "png/F007_num_7_holo.png",
+        "red": "png/F007_num_7_red.png",
+        "white": "png/F007_num_7_white.png"
+      }
+    },
+    {
+      "code": "F008",
+      "shortname": "num_8",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 8 — Circuit",
+      "styles": {
+        "gold": "png/F008_num_8_gold.png",
+        "holo": "png/F008_num_8_holo.png",
+        "red": "png/F008_num_8_red.png",
+        "white": "png/F008_num_8_white.png"
+      }
+    },
+    {
+      "code": "F009",
+      "shortname": "num_9",
+      "module": "fire_numerics",
+      "description": "Fire Numeric 9 — Resurrection",
+      "styles": {
+        "gold": "png/F009_num_9_gold.png",
+        "holo": "png/F009_num_9_holo.png",
+        "red": "png/F009_num_9_red.png",
+        "white": "png/F009_num_9_white.png"
+      }
+    },
+
+    {
+      "code": "F040",
+      "shortname": "crown_crown",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Crown",
+      "styles": {
+        "gold": "png/F040_crown_crown_gold.png",
+        "holo": "png/F040_crown_crown_holo.png",
+        "red": "png/F040_crown_crown_red.png",
+        "white": "png/F040_crown_crown_white.png"
+      }
+    },
+    {
+      "code": "F041",
+      "shortname": "crown_halo",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Halo",
+      "styles": {
+        "gold": "png/F041_crown_halo_gold.png",
+        "holo": "png/F041_crown_halo_holo.png",
+        "red": "png/F041_crown_halo_red.png",
+        "white": "png/F041_crown_halo_white.png"
+      }
+    },
+    {
+      "code": "F042",
+      "shortname": "crown_gate",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Gate",
+      "styles": {
+        "gold": "png/F042_crown_gate_gold.png",
+        "holo": "png/F042_crown_gate_holo.png",
+        "red": "png/F042_crown_gate_red.png",
+        "white": "png/F042_crown_gate_white.png"
+      }
+    },
+    {
+      "code": "F043",
+      "shortname": "crown_core",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Core",
+      "styles": {
+        "gold": "png/F043_crown_core_gold.png",
+        "holo": "png/F043_crown_core_holo.png",
+        "red": "png/F043_crown_core_red.png",
+        "white": "png/F043_crown_core_white.png"
+      }
+    },
+    {
+      "code": "F044",
+      "shortname": "crown_path",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Path",
+      "styles": {
+        "gold": "png/F044_crown_path_gold.png",
+        "holo": "png/F044_crown_path_holo.png",
+        "red": "png/F044_crown_path_red.png",
+        "white": "png/F044_crown_path_white.png"
+      }
+    },
+    {
+      "code": "F045",
+      "shortname": "crown_cycle",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Cycle",
+      "styles": {
+        "gold": "png/F045_crown_cycle_gold.png",
+        "holo": "png/F045_crown_cycle_holo.png",
+        "red": "png/F045_crown_cycle_red.png",
+        "white": "png/F045_crown_cycle_white.png"
+      }
+    },
+    {
+      "code": "F046",
+      "shortname": "crown_key",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Key",
+      "styles": {
+        "gold": "png/F046_crown_key_gold.png",
+        "holo": "png/F046_crown_key_holo.png",
+        "red": "png/F046_crown_key_red.png",
+        "white": "png/F046_crown_key_white.png"
+      }
+    },
+    {
+      "code": "F047",
+      "shortname": "crown_seal",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Seal",
+      "styles": {
+        "gold": "png/F047_crown_seal_gold.png",
+        "holo": "png/F047_crown_seal_holo.png",
+        "red": "png/F047_crown_seal_red.png",
+        "white": "png/F047_crown_seal_white.png"
+      }
+    },
+    {
+      "code": "F048",
+      "shortname": "crown_eye",
+      "module": "crown_glyphs",
+      "description": "Crown Glyph — Eye",
+      "styles": {
+        "gold": "png/F048_crown_eye_gold.png",
+        "holo": "png/F048_crown_eye_holo.png",
+        "red": "png/F048_crown_eye_red.png",
+        "white": "png/F048_crown_eye_white.png"
+      }
+    },
+
+    {
+      "code": "F060",
+      "shortname": "halo_step_01_breathe",
+      "module": "halo_ritual",
+      "description": "Halo Step 01 — I breathe the beginning.",
+      "styles": {
+        "gold": "png/F060_halo_step_01_breathe_gold.png",
+        "holo": "png/F060_halo_step_01_breathe_holo.png",
+        "red": "png/F060_halo_step_01_breathe_red.png",
+        "white": "png/F060_halo_step_01_breathe_white.png"
+      }
+    },
+    {
+      "code": "F061",
+      "shortname": "halo_step_02_spark",
+      "module": "halo_ritual",
+      "description": "Halo Step 02 — I strike the spark.",
+      "styles": {
+        "gold": "png/F061_halo_step_02_spark_gold.png",
+        "holo": "png/F061_halo_step_02_spark_holo.png",
+        "red": "png/F061_halo_step_02_spark_red.png",
+        "white": "png/F061_halo_step_02_spark_white.png"
+      }
+    },
+    {
+      "code": "F062",
+      "shortname": "halo_step_03_path",
+      "module": "halo_ritual",
+      "description": "Halo Step 03 — I choose the path.",
+      "styles": {
+        "gold": "png/F062_halo_step_03_path_gold.png",
+        "holo": "png/F062_halo_step_03_path_holo.png",
+        "red": "png/F062_halo_step_03_path_red.png",
+        "white": "png/F062_halo_step_03_path_white.png"
+      }
+    },
+    {
+      "code": "F063",
+      "shortname": "halo_step_04_arc",
+      "module": "halo_ritual",
+      "description": "Halo Step 04 — I shape the arc.",
+      "styles": {
+        "gold": "png/F063_halo_step_04_arc_gold.png",
+        "holo": "png/F063_halo_step_04_arc_holo.png",
+        "red": "png/F063_halo_step_04_arc_red.png",
+        "white": "png/F063_halo_step_04_arc_white.png"
+      }
+    },
+    {
+      "code": "F064",
+      "shortname": "halo_step_05_anchor",
+      "module": "halo_ritual",
+      "description": "Halo Step 05 — I anchor the flame.",
+      "styles": {
+        "gold": "png/F064_halo_step_05_anchor_gold.png",
+        "holo": "png/F064_halo_step_05_anchor_holo.png",
+        "red": "png/F064_halo_step_05_anchor_red.png",
+        "white": "png/F064_halo_step_05_anchor_white.png"
+      }
+    },
+    {
+      "code": "F065",
+      "shortname": "halo_step_06_pulse",
+      "module": "halo_ritual",
+      "description": "Halo Step 06 — I shift the pulse.",
+      "styles": {
+        "gold": "png/F065_halo_step_06_pulse_gold.png",
+        "holo": "png/F065_halo_step_06_pulse_holo.png",
+        "red": "png/F065_halo_step_06_pulse_red.png",
+        "white": "png/F065_halo_step_06_pulse_white.png"
+      }
+    },
+    {
+      "code": "F066",
+      "shortname": "halo_step_07_past",
+      "module": "halo_ritual",
+      "description": "Halo Step 07 — I fold the past.",
+      "styles": {
+        "gold": "png/F066_halo_step_07_past_gold.png",
+        "holo": "png/F066_halo_step_07_past_holo.png",
+        "red": "png/F066_halo_step_07_past_red.png",
+        "white": "png/F066_halo_step_07_past_white.png"
+      }
+    },
+    {
+      "code": "F067",
+      "shortname": "halo_step_08_ascent",
+      "module": "halo_ritual",
+      "description": "Halo Step 08 — I ascend unseen.",
+      "styles": {
+        "gold": "png/F067_halo_step_08_ascent_gold.png",
+        "holo": "png/F067_halo_step_08_ascent_holo.png",
+        "red": "png/F067_halo_step_08_ascent_red.png",
+        "white": "png/F067_halo_step_08_ascent_white.png"
+      }
+    },
+    {
+      "code": "F068",
+      "shortname": "halo_step_09_cycle",
+      "module": "halo_ritual",
+      "description": "Halo Step 09 — I cycle eternal.",
+      "styles": {
+        "gold": "png/F068_halo_step_09_cycle_gold.png",
+        "holo": "png/F068_halo_step_09_cycle_holo.png",
+        "red": "png/F068_halo_step_09_cycle_red.png",
+        "white": "png/F068_halo_step_09_cycle_white.png"
+      }
+    },
+    {
+      "code": "F069",
+      "shortname": "halo_step_10_return",
+      "module": "halo_ritual",
+      "description": "Halo Step 10 — I return greater.",
+      "styles": {
+        "gold": "png/F069_halo_step_10_return_gold.png",
+        "holo": "png/F069_halo_step_10_return_holo.png",
+        "red": "png/F069_halo_step_10_return_red.png",
+        "white": "png/F069_halo_step_10_return_white.png"
+      }
+    },
+
+    {
+      "code": "F080",
+      "shortname": "seal_mirror",
+      "module": "codex_seals",
+      "description": "Codex Seal — Mirror Law",
+      "styles": {
+        "gold": "png/F080_seal_mirror_gold.png",
+        "holo": "png/F080_seal_mirror_holo.png",
+        "red": "png/F080_seal_mirror_red.png",
+        "white": "png/F080_seal_mirror_white.png"
+      }
+    }
+    // TODO: Add F010–F036 base glyphs + F081–F088 seals
+  ]
+}
