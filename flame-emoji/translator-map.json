@@ -1,0 +1,67 @@
+{
+  "version": "1.0.0",
+  "description": "Flame Emoji Translator Map — English ↔ F-codes",
+  "modes": ["text_to_codes", "codes_to_text"],
+  "phrases": [
+    {
+      "id": "ready",
+      "text_en": "I'm ready",
+      "codes": ["F015", "F001"],
+      "notes": "Coil + Spark = charged and ready."
+    },
+    {
+      "id": "start_movement",
+      "text_en": "Start the movement",
+      "codes": ["F010", "F020"],
+      "notes": "Ignition + Momentum."
+    },
+    {
+      "id": "solid_foundation",
+      "text_en": "Strong foundation",
+      "codes": ["F013", "F004"],
+      "notes": "Ground + Fire Numeric 4 Foundation."
+    },
+    {
+      "id": "lock_in",
+      "text_en": "Lock it in",
+      "codes": ["F024", "F030", "F047"],
+      "notes": "Structure locked and sealed."
+    },
+    {
+      "id": "end_this",
+      "text_en": "End this",
+      "codes": ["F016", "F006"],
+      "notes": "Cut + Collapse."
+    },
+    {
+      "id": "level_up",
+      "text_en": "Level up",
+      "codes": ["F007"],
+      "notes": "Ascent."
+    },
+    {
+      "id": "rise_silently",
+      "text_en": "Rise quietly",
+      "codes": ["F067"],
+      "notes": "Ascend Unseen."
+    },
+    {
+      "id": "return_stronger",
+      "text_en": "Return stronger",
+      "codes": ["F069"],
+      "notes": "Return Greater."
+    },
+    {
+      "id": "authority_decree",
+      "text_en": "This is official",
+      "codes": ["F040", "F088"],
+      "notes": "Crown + Prime Seal."
+    },
+    {
+      "id": "mirror_back",
+      "text_en": "Reflect it back",
+      "codes": ["F033", "F080"],
+      "notes": "Reflect + Mirror Seal."
+    }
+  ]
+}
