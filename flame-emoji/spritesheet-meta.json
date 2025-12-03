@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "grid": {
+    "cell_width": 128,
+    "cell_height": 128,
+    "columns": 12,
+    "rows": 4
+  },
+  "styles": {
+    "gold": "sprites/FlameEmoji-gold-128.png",
+    "holo": "sprites/FlameEmoji-holo-128.png",
+    "red": "sprites/FlameEmoji-red-128.png",
+    "white": "sprites/FlameEmoji-white-128.png"
+  },
+  "mapping": {
+    "F000": { "row": 0, "col": 0 },
+    "F001": { "row": 0, "col": 1 },
+    "F002": { "row": 0, "col": 2 },
+    "F003": { "row": 0, "col": 3 },
+    "F004": { "row": 0, "col": 4 },
+    "F005": { "row": 0, "col": 5 },
+    "F006": { "row": 0, "col": 6 },
+    "F007": { "row": 0, "col": 7 },
+    "F008": { "row": 0, "col": 8 },
+    "F009": { "row": 0, "col": 9 },
+
+    "F010": { "row": 1, "col": 0 },
+    "F011": { "row": 1, "col": 1 },
+    "F012": { "row": 1, "col": 2 },
+    "F013": { "row": 1, "col": 3 },
+    "F014": { "row": 1, "col": 4 },
+    "F015": { "row": 1, "col": 5 },
+    "F016": { "row": 1, "col": 6 },
+    "F017": { "row": 1, "col": 7 },
+    "F018": { "row": 1, "col": 8 },
+    "F019": { "row": 1, "col": 9 },
+    "F020": { "row": 1, "col": 10 },
+    "F021": { "row": 1, "col": 11 },
+
+    "F022": { "row": 2, "col": 0 },
+    "F023": { "row": 2, "col": 1 },
+    "F024": { "row": 2, "col": 2 },
+    "F025": { "row": 2, "col": 3 },
+    "F026": { "row": 2, "col": 4 },
+    "F027": { "row": 2, "col": 5 },
+    "F028": { "row": 2, "col": 6 },
+    "F029": { "row": 2, "col": 7 },
+    "F030": { "row": 2, "col": 8 },
+    "F031": { "row": 2, "col": 9 },
+    "F032": { "row": 2, "col": 10 },
+    "F033": { "row": 2, "col": 11 },
+
+    "F034": { "row": 3, "col": 0 },
+    "F035": { "row": 3, "col": 1 },
+    "F036": { "row": 3, "col": 2 },
+    "F040": { "row": 3, "col": 3 },
+    "F041": { "row": 3, "col": 4 },
+    "F042": { "row": 3, "col": 5 },
+    "F043": { "row": 3, "col": 6 },
+    "F044": { "row": 3, "col": 7 },
+    "F045": { "row": 3, "col": 8 },
+    "F046": { "row": 3, "col": 9 },
+    "F047": { "row": 3, "col": 10 },
+    "F048": { "row": 3, "col": 11 }
+
+    /* Halo + Seals can go on sheet #2, or you can expand rows and columns */
+  }
+}
